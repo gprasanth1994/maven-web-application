@@ -17,9 +17,6 @@
 			<img src="images/mithunlogo.jpg" alt="" width="100">
 			
 	</span>
-	<span>
-		<img src="images/prasanth.jpg" alt="" width="200">
-	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
@@ -28,7 +25,14 @@
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
+</div> 
+<div style="text-align: center;">
+        <span>
+                        <img src="images/prasanth.jpg" alt="" width="100">
+
+       </span>
 </div>
+
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
