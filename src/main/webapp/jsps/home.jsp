@@ -24,7 +24,7 @@
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
 </div> 
-<div style="text-align: center;">
+<div style="text-align: left;">
         <span>
                         <img src="images/prasanth.jpg" alt="" width="100">
 
