@@ -18,10 +18,8 @@
 			
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore.
-		+91-9980923226,
+		  banglore near marathahalli
+		  
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
@@ -37,8 +35,8 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<marquee><p align=center>focus on devops tools you will get more package</p></marquee>
+<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">devops team</a> </small></p>
 
 </body>
 </html>
