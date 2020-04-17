@@ -18,10 +18,10 @@
 			
 	</span>
 	<span style="font-weight: bold;">
-		  banglore near marathahalli
+		      banglore near marathahalli
 		  
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:gprasanth532@gmail.com">Mail to prasanth</a>
 	</span>
 </div> 
 <div style="text-align: left;">
