@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-	<h1 align="center" style="color:blue;" >...............welcome to gangavaram technologies nellore..........<h1>
+	<h1 align="center" style="color:blue;" >welcome to gangavaram technologies nellore<h1>
 <h1 align="center"> .........welcome to all my friends to discuss our douts.</h1>
 <hr>
 <div style="text-align: center;">
