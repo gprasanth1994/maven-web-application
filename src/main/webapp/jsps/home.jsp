@@ -14,7 +14,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-			<img src="images/prasanth.jpg" alt="" width="100">
+			<img src="images/prasanth.JPG" alt="" width="100">
 			
 	</span>
 	<span style="font-weight: bold;">
