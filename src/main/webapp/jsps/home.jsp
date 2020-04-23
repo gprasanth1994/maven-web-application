@@ -10,7 +10,7 @@
 </head>
 <body>
 	<marquee><h1 align="center" style="color:blue;" >welcome to gangavaram technologies thurupupalli chejarla<h1></marquee>
-<h1 align="center"> .........welcome to all my friends to discuss our douts.</h1>
+<h1 align="center"> .........welcome to all my friends to discuss our douts...............</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -24,12 +24,6 @@
 		<a href="mailto:gprasanth532@gmail.com">Mail to prasanth</a>
 	</span>
 </div> 
-<div style="text-align: left;">
-        <span>
-                        <img src="images/prasanth.jpg" alt="" width="100">
-
-       </span>
-</div>
 
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
