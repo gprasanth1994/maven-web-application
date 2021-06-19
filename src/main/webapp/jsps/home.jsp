@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-	<marquee><h1 align="center" style="color:blue;" >welcome to gangavaram technologies thurupupalli chejarla<h1></marquee>
-<h1 align="center"> .........welcome to all my friends to discuss our douts...............</h1>
+	<marquee><h1 align="center" style="color:blue;" >welcome to NARAYANA GRUOP MCA<h1></marquee>
+<h1 align="center"> .........welcome to all...............</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
