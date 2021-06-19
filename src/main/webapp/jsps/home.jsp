@@ -29,7 +29,7 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<marquee><p align=center>focus on devops tools you will get more package</p></marquee>
+<marquee><p align=center>focus on DEVOPS tools you will get more package</p></marquee>
 <p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">devops team</a> </small></p>
 
 </body>
