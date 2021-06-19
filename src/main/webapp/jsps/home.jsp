@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-	<marquee><h1 align="center" style="color:blue;" >welcome to NARAYANA GRUOP MCA<h1></marquee>
+	<marquee><h1 align="center" style="color:blue;" >WELCOME TO NARAYANA GRUOP MCA<h1></marquee>
 <h1 align="center"> .........welcome to all...............</h1>
 <hr>
 <div style="text-align: center;">
@@ -18,7 +18,7 @@
 			
 	</span>
 	<span style="font-weight: bold;">
-		      banglore near marathahalli
+		   BANGALORE , KARNATAKA
 		  
 		<br>
 		<a href="mailto:gprasanth532@gmail.com">Mail to prasanth</a>
