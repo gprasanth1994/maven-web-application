@@ -10,7 +10,7 @@
 </head>
 <body>
 	<marquee><h1 align="center" style="color:blue;" >WELCOME TO NARAYANA GRUOP MCA<h1></marquee>
-<h1 align="center"> .........welcome to all...............</h1>
+<h1 align="center"> .........	WELCOME TO ALL...............</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
