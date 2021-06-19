@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-	<marquee><h1 align="center" style="color:blue;" >WELCOME TO NARAYANA GRUOP B-Tech CSE MCA NELLORE GUDUR<h1></marquee>
+	<marquee><h1 align="center" style="color:blue;" >WELCOME TO NARAYANA GRUOP B-Tech CSE MCA NELLORE Banglore<h1></marquee>
 <h1 align="center"> .........	WELCOME TO ALL...............</h1>
 <hr>
 <div style="text-align: center;">
