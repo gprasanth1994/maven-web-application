@@ -30,7 +30,7 @@
 <hr>
 <hr>
 <marquee><p align=center>focus on DEVOPS tools you will get more package</p></marquee>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">devops team</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://www.necn.ac.in//">devops team</a> </small></p>
 
 </body>
 </html>
